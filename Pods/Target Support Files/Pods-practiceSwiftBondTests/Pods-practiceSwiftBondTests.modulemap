@@ -1,0 +1,6 @@
+framework module Pods_practiceSwiftBondTests {
+  umbrella header "Pods-practiceSwiftBondTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
